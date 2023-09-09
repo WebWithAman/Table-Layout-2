@@ -1,4 +1,4 @@
-# flag-colors-table-layout
+# flag-coloured-table
 
 This is a simple project that creates a table layout coloured by flag colors using HTML tables and CSS.
 
@@ -14,6 +14,10 @@ To use this project, you need to have a web browser that supports HTML and CSS. 
 ```bash
 git clone https://github.com/webwithaman/flag-colors-table-layout.git
 ```
+
+# Demo
+
+You can see a demo of this table https://flagcolouredtablebyaman.netlify.app
 
 ## Usage
 
