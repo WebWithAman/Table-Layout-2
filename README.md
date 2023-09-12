@@ -9,7 +9,7 @@ This is a simple project that creates a table layout coloured by flag colors usi
 
 ## Installation
 
-To use this project, you need to have a web browser that supports HTML and CSS. You also need to have the [flag-icon-css] library installed or linked in your HTML file. You can download the project files from this GitHub repository or clone it using the following command:
+To use this project, you need to have a web browser that supports HTML and CSS. You can download the project files from this GitHub repository or clone it using the following command:
 
 ```bash
 git clone https://github.com/webwithaman/flag-coloured-table.git
